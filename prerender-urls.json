@@ -1,0 +1,9 @@
+[{
+    "url": "/",
+    "title": "Úvodní stránka",
+    "description": "Toto je úvodní stránka Preact PWA"
+  }, {
+    "url": "/profile",
+    "title": "Profilová stránka",
+    "description": "Toto je profilová stránka Preact PWA"
+  }]
